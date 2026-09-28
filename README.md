@@ -45,7 +45,7 @@ Once the installation was complete I could access to the application using `http
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citar este trabajo
-Este reopsitorio es una bifurcacion de el repositorio original:https://github.com/gabrielhuav/Seismic-Data-Visualization-System
+Este repositorio es una bifurcacion de el repositorio original:https://github.com/gabrielhuav/Seismic-Data-Visualization-System
 
 - DOI: 10.24275/AZC2026E1004
 - Enlace: https://doi.org/10.24275/AZC2026E1004
